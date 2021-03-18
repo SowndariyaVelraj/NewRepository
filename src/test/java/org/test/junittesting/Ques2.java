@@ -14,4 +14,13 @@ public class Ques2 extends BaseClass{
 		click(dd);
 
 }
+	public void newMethod() {
+
+		System.out.println("a");
+		
+	}
+	public void abvc() {
+		// TODO Auto-generated method stub
+
+	}
 }
