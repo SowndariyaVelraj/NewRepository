@@ -14,6 +14,10 @@ public class Ques2 extends BaseClass{
 		click(dd);
 
 }
+	public void news() {
+		// TODO Auto-generated method stub
+
+	}
 	public void newMethod() {
 
 		System.out.println("a");
